@@ -1,3 +1,5 @@
+/*Haritha Weerathunga*/
+
 /*Construct SQL Statements for following scenarios.
 Find all customers, had bought more than two products in their orders from 2015-12-31 to
 2016-12-31. */
